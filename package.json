@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "description": "Growing too big for your database? Too many people on the books but you've got no idea what department they're in? Look no further, the solution is in your midst.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtchrrs/Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtchrrs/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/mtchrrs/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+  }
+}
