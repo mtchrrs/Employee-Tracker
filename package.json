@@ -1,9 +1,10 @@
 {
   "name": "employee-tracker",
-  "description": "Growing too big for your database? Too many people on the books but you've got no idea what department they're in? Look no further, the solution is in your midst.",
   "version": "1.0.0",
-  "main": "server.js",
+  "description": "Growing too big for your database? Too many people on the books but you've got no idea what department they're in? Look no further, the solution is in your midst.",
+  "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
@@ -13,15 +14,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mtchrrs/Employee-Tracker/issues"
-  },
   "homepage": "https://github.com/mtchrrs/Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
     "inquirer": "^8.2.0",
+    "install": "^0.13.0",
     "mysql2": "^2.3.3",
+    "npm": "^8.5.2"
   }
 }
