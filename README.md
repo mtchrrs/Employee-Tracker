@@ -37,6 +37,8 @@
   To use this application, please follow the following process carefully.
 
   Follow the video below!
+  
+  chrome-extension://nocepbfomlobkggpnokaimlijaeapjph/recording-recovery.html
 
 
   ## Contributions
