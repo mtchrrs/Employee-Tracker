@@ -38,7 +38,7 @@
 
   Follow the video below!
   
-  chrome-extension://nocepbfomlobkggpnokaimlijaeapjph/recording-recovery.html
+  https://app.castify.com/view/f693d07f-d07b-43a9-bc38-d5630d8559d3
   
 
   ## Contributions
