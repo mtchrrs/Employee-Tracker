@@ -29,7 +29,7 @@
 
   To install or use this application, please follow the following process carefully.
 
-  Firstly, run npm i, then mysql -u <user> -p <password>, then source db/schema.sql and source db/seeds.sql followed by npm start
+  Firstly, run npm i, then mysql -u username -p password, then source db/schema.sql and source db/seeds.sql followed by npm start
 
 
   ## Usage
